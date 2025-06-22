@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+
+# IDEs and editors
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Image outputs
+res/
+
+# Temp/Private folders
+_sandbox/
+
+# Bash files
+.sh
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# VS Code settings
+.history/
+
+# Temporary files
+*.swp
+*~ 
+
+# Extras: model caches, large data
+.cache/
