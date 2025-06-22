@@ -22,7 +22,7 @@ res/
 _sandbox/
 
 # Bash files
-.sh
+*.sh
 
 # Logs and databases
 *.log
